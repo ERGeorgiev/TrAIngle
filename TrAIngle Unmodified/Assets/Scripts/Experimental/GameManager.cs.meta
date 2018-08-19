@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e903dc00aa18641409b4be1e19adbd32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverUI: {fileID: 1855476870895144, guid: d32cb07021ad80b4199dc70707ab915d,
+      type: 2}
+  - playerHero: {instanceID: 0}
+  - playerPrefab: {instanceID: 0}
+  - respawnSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
